@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C-Gelston
 - 👀 My current obsession... Hogwarts Legacy
-- 🌱 I’m currently learning ... scientific computing with python
-- ⚡ Fun fact: ... currently cross-stitching the Legend of Zelda: Breath of the Wild tapestry
+- 🌱 I’m currently learning ... Scientific Computing with Python
+- ⚡ Fun fact: ... I'm currently cross-stitching the Legend of Zelda: Breath of the Wild tapestry
 
 <!---
 C-Gelston/C-Gelston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
